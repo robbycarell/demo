@@ -1,1 +1,2 @@
-//dot is java code
+//dit is java code
+//dit heb ik toegevoegd
